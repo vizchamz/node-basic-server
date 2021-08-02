@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "basic-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "author": "Visal Dharmasiri",
+  "license": "ISC",
+  "description": ""
+}
